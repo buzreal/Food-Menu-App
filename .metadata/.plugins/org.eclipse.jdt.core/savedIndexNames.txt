@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\user\Desktop\A_Udacity\My Projects\Food app\food\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
